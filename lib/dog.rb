@@ -11,3 +11,4 @@ def sit
   fido = Dog.new
   puts "The Dog is sitting"
 end
+  fido.sit
